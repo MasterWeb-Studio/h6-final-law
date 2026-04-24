@@ -1,7 +1,7 @@
 import type { ContentPlan } from './content-types';
 
 // Bu dosya frontend-builder tarafından güncellendi (polish sonrası).
-// Son güncelleme: 2026-04-21T21:43:09.260Z
+// Son güncelleme: 2026-04-24T15:26:18.105Z
 export const content: ContentPlan = {
   "meta": {
     "companyName": "Çelebi & Yılmaz",
@@ -103,8 +103,8 @@ export const content: ContentPlan = {
       "sections": [
         {
           "type": "hero",
-          "headline": "Hakkınız, Stratejinin Merkezinde",
-          "subheadline": "Ticaret, iş ve gayrimenkul hukukunda onlarca yıllık kurumsal deneyimle; her dosyaya özgü, sonuç odaklı bir yaklaşım.",
+          "headline": "Ticari Hukukta Stratejik Bir Ortak",
+          "subheadline": "Ticaret, iş ve gayrimenkul hukukunda deneyimli kadromuzla her dosyayı bir strateji olarak ele alıyoruz.",
           "primaryCta": {
             "label": "Görüşme Talep Edin",
             "href": "/contact"
@@ -206,10 +206,10 @@ export const content: ContentPlan = {
         },
         {
           "type": "cta",
-          "headline": "Dosyanız Bir Strateji Gerektirir",
-          "subheadline": "İlk görüşmede süreci birlikte değerlendiriyor, size özgü bir yol haritası çiziyoruz.",
+          "headline": "Dosyanız, Stratejik Bir Bakışı Hak Ediyor",
+          "subheadline": "İlk görüşmede dosyanızı dinliyor, size özgü bir yol haritası çiziyoruz.",
           "primaryCta": {
-            "label": "Görüşme Talep Edin",
+            "label": "Görüşme Ayarlayın",
             "href": "/contact"
           },
           "variant": "banner"

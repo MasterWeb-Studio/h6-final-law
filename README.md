@@ -25,7 +25,7 @@ npm run start
 Proje içinde `/admin` panelinden dashboard ve içerik editörüne erişebilirsin.
 
 - **URL:** http://localhost:3000/admin/login
-- **Şifre:** `b848d3f2-3a9d-4fc9-9ce0-1a5ae79add14`
+- **Şifre:** `e2c573e2-8367-4ec0-b36c-5f94a299456f`
 
 Bu şifreyi güvenli yere kaydedin — kaybolursa `.env.local` dosyasındaki `ADMIN_PASSWORD` satırını değiştirip yeniden girebilirsiniz.
 
