@@ -1,8 +1,8 @@
-# Çelebi & Yılmaz
+# Levent Hukuk Bürosu
 
 Ticaret, İş ve Gayrimenkul Hukukunda Derin Uzmanlık
 
-İstanbul Levent'te kurumsal hukuk bürosu. Ticaret, iş ve gayrimenkul hukukunda deneyimli kadroyla stratejik hukuki danışmanlık.
+İstanbul Levent'te kurumsal hukuk alanında deneyimli kadrosuyla ticaret, iş ve gayrimenkul hukuku danışmanlığı.
 
 ## Başlangıç
 
@@ -25,7 +25,7 @@ npm run start
 Proje içinde `/admin` panelinden dashboard ve içerik editörüne erişebilirsin.
 
 - **URL:** http://localhost:3000/admin/login
-- **Şifre:** `e2c573e2-8367-4ec0-b36c-5f94a299456f`
+- **Şifre:** `ba74d036-530c-4beb-9903-124bcd47c891`
 
 Bu şifreyi güvenli yere kaydedin — kaybolursa `.env.local` dosyasındaki `ADMIN_PASSWORD` satırını değiştirip yeniden girebilirsiniz.
 

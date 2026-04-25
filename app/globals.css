@@ -19,13 +19,13 @@
  * Aşağıdaki değerler varsayılan (tokens yoksa fallback).
  */
 :root {
-  --color-primary: #2DB89A;
-  --color-secondary: #1A2E2A;
-  --color-accent: #C9A961;
-  --color-background: #0F1A18;
-  --color-foreground: #E8E6E1;
-  --color-muted: #8A9894;
-  --color-border: #2A3C38;
+  --color-primary: #2BB89A;
+  --color-secondary: #1F4D43;
+  --color-accent: #D4A24C;
+  --color-background: #1A2420;
+  --color-foreground: #E8E4DC;
+  --color-muted: #8A9290;
+  --color-border: #2D3935;
 
   --font-heading: "Playfair Display", system-ui, sans-serif;
   --font-body: Inter, system-ui, sans-serif;
