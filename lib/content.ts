@@ -1,10 +1,10 @@
 import type { ContentPlan } from './content-types';
 
 // Bu dosya frontend-builder tarafından güncellendi (polish sonrası).
-// Son güncelleme: 2026-04-27T14:14:40.115Z
+// Son güncelleme: 2026-04-27T14:33:21.711Z
 export const content: ContentPlan = {
   "meta": {
-    "companyName": "Levent Hukuk Bürosu",
+    "companyName": "Çelebi & Yılmaz",
     "tagline": "Ticaretin diline hâkim, sonuç odaklı hukuk pratiği.",
     "description": "İstanbul Levent'te ticaret, iş ve gayrimenkul hukukunda uzman kurumsal hukuk bürosu. Deneyimli kadro, kararlı sonuçlar.",
     "language": "tr",
@@ -85,7 +85,7 @@ export const content: ContentPlan = {
           ]
         }
       ],
-      "copyright": "© 2026 Levent Hukuk Bürosu. Tüm hakları saklıdır.",
+      "copyright": "© 2026 Çelebi & Yılmaz. Tüm hakları saklıdır.",
       "social": [
         {
           "platform": "linkedin",
@@ -110,7 +110,7 @@ export const content: ContentPlan = {
             "href": "/contact"
           },
           "secondaryCta": {
-            "label": "Uzmanlık Alanlarımız",
+            "label": "Uzmanlık Alanları",
             "href": "/services"
           },
           "variant": "split",
@@ -129,7 +129,7 @@ export const content: ContentPlan = {
           "type": "about",
           "headline": "Her Dosya Bir Strateji",
           "body": [
-            "Levent Hukuk Bürosu, İstanbul'un ticari merkezinde kurumsal müvekkillere ticaret, iş ve gayrimenkul hukuku alanlarında danışmanlık vermektedir. Büromuz, karmaşık hukuki süreçleri net bir stratejiyle yönetir.",
+            "Çelebi & Yılmaz, İstanbul'un ticari merkezinde kurumsal müvekkillere ticaret, iş ve gayrimenkul hukuku alanlarında danışmanlık vermektedir. Büromuz, karmaşık hukuki süreçleri net bir stratejiyle yönetir.",
             "Deneyimli avukatlardan oluşan kadromuz; şirket birleşmeleri, iş uyuşmazlıkları ve gayrimenkul işlemlerinde müvekkillerinin yanında kararlı bir duruş sergiler."
           ],
           "variant": "text-only"
@@ -221,10 +221,10 @@ export const content: ContentPlan = {
         },
         {
           "type": "cta",
-          "headline": "Her Dosya Bir Strateji, Her Strateji Bir Karar",
-          "subheadline": "İlk görüşmede hukuki durumunuzu birlikte değerlendirir, size özel bir yol haritası çizeriz.",
+          "headline": "Dosyanız, Stratejik Bir Bakışı Hak Ediyor",
+          "subheadline": "İlk görüşmede deneyimli avukatlarımız sürecinizi dinler, somut bir yol haritası çizer.",
           "primaryCta": {
-            "label": "Görüşme Ayarlayın",
+            "label": "Görüşme Talep Edin",
             "href": "/contact"
           },
           "variant": "banner"
@@ -235,7 +235,7 @@ export const content: ContentPlan = {
       "slug": "about",
       "title": "Hakkımızda",
       "metaTitle": "Hakkımızda — Kurumsal Hukuk Bürosu",
-      "metaDescription": "Levent Hukuk Bürosu hakkında: İstanbul'da ticaret, iş ve gayrimenkul hukukunda köklü deneyim ve modern hukuki vizyon.",
+      "metaDescription": "Çelebi & Yılmaz hakkında: İstanbul'da ticaret, iş ve gayrimenkul hukukunda köklü deneyim ve modern hukuki vizyon.",
       "sections": [
         {
           "type": "hero",
@@ -261,7 +261,7 @@ export const content: ContentPlan = {
           "type": "about",
           "headline": "Büromuzun Hikayesi",
           "body": [
-            "Levent Hukuk Bürosu, İstanbul'un ticari kalbinde kurumsal şirketlere ve girişimcilere hizmet vermek üzere kurulmuştur. Ticaret, iş ve gayrimenkul hukukundaki derin uzmanlığımız, müvekkillerimizin en kritik kararlarında yanlarında olmamızı sağlar.",
+            "Çelebi & Yılmaz, İstanbul'un ticari kalbinde kurumsal şirketlere ve girişimcilere hizmet vermek üzere kurulmuştur. Ticaret, iş ve gayrimenkul hukukundaki derin uzmanlığımız, müvekkillerimizin en kritik kararlarında yanlarında olmamızı sağlar.",
             "Büromuz; kurumsal ciddiyeti kişisel ilgiyle buluşturur. Her müvekkile özgü strateji geliştiren kadromuz, hukuki süreçleri şeffaf ve anlaşılır biçimde yönetir."
           ],
           "stats": [],
@@ -305,7 +305,7 @@ export const content: ContentPlan = {
       "slug": "services",
       "title": "Uzmanlık Alanları",
       "metaTitle": "Uzmanlık Alanları — Ticaret, İş ve Gayrimenkul Hukuku",
-      "metaDescription": "Levent Hukuk Bürosu uzmanlık alanları: ticaret hukuku, iş hukuku, gayrimenkul ve kurumsal danışmanlık. İstanbul Levent.",
+      "metaDescription": "Çelebi & Yılmaz uzmanlık alanları: ticaret hukuku, iş hukuku, gayrimenkul ve kurumsal danışmanlık. İstanbul Levent.",
       "sections": [
         {
           "type": "hero",
@@ -392,7 +392,7 @@ export const content: ContentPlan = {
       "slug": "contact",
       "title": "İletişim",
       "metaTitle": "İletişim — Randevu ve Danışmanlık",
-      "metaDescription": "Levent Hukuk Bürosu ile iletişime geçin. İstanbul Levent'te ticaret, iş ve gayrimenkul hukuku danışmanlığı için randevu alın.",
+      "metaDescription": "Çelebi & Yılmaz ile iletişime geçin. İstanbul Levent'te ticaret, iş ve gayrimenkul hukuku danışmanlığı için randevu alın.",
       "sections": [
         {
           "type": "hero",
@@ -412,7 +412,7 @@ export const content: ContentPlan = {
       "slug": "team",
       "title": "Ekibimiz",
       "metaTitle": "Ekibimiz — Deneyimli Hukuk Kadrosu",
-      "metaDescription": "Levent Hukuk Bürosu avukatları: ticaret, iş ve gayrimenkul hukukunda uzmanlaşmış deneyimli kadro. İstanbul Levent.",
+      "metaDescription": "Çelebi & Yılmaz avukatları: ticaret, iş ve gayrimenkul hukukunda uzmanlaşmış deneyimli kadro. İstanbul Levent.",
       "sections": [
         {
           "type": "hero",
