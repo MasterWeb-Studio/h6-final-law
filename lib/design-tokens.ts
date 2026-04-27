@@ -1,32 +1,32 @@
 // Bu dosya scaffolder tarafından üretilir — elle düzenleme.
 export const designTokens = {
   "colors": {
-    "primary": "#2BB89A",
-    "secondary": "#1F4D43",
-    "accent": "#D4A24C",
-    "background": "#1A2420",
-    "foreground": "#E8E4DC",
-    "muted": "#8A9290",
-    "border": "#2D3935"
+    "primary": "#1FB89A",
+    "secondary": "#C9A24B",
+    "accent": "#1FB89A",
+    "background": "#1A2620",
+    "foreground": "#EDEDE6",
+    "muted": "#8A8F88",
+    "border": "#2C3A33"
   },
   "typography": {
     "headingFont": "Playfair Display",
     "bodyFont": "Inter",
     "headingWeight": 700,
     "bodyWeight": 400,
-    "scale": "spacious"
+    "scale": "normal"
   },
   "layout": {
     "style": "editorial",
     "radius": "sm",
-    "density": "airy",
+    "density": "normal",
     "containerWidth": "normal"
   },
   "mood": [
     "sophisticated",
     "trustworthy",
-    "refined",
-    "timeless"
+    "premium",
+    "refined"
   ]
 } as const;
 

@@ -1,8 +1,8 @@
 # Levent Hukuk Bürosu
 
-Ticaret, İş ve Gayrimenkul Hukukunda Derin Uzmanlık
+Ticaretin diline hâkim, sonuç odaklı hukuk pratiği.
 
-İstanbul Levent'te kurumsal hukuk alanında deneyimli kadrosuyla ticaret, iş ve gayrimenkul hukuku danışmanlığı.
+İstanbul Levent'te ticaret, iş ve gayrimenkul hukukunda uzman kurumsal hukuk bürosu. Deneyimli kadro, kararlı sonuçlar.
 
 ## Başlangıç
 
@@ -25,7 +25,7 @@ npm run start
 Proje içinde `/admin` panelinden dashboard ve içerik editörüne erişebilirsin.
 
 - **URL:** http://localhost:3000/admin/login
-- **Şifre:** `ba74d036-530c-4beb-9903-124bcd47c891`
+- **Şifre:** `174fd1da-ef05-486e-a90f-f7ae0f29b7b0`
 
 Bu şifreyi güvenli yere kaydedin — kaybolursa `.env.local` dosyasındaki `ADMIN_PASSWORD` satırını değiştirip yeniden girebilirsiniz.
 
